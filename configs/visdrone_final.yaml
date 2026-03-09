@@ -1,0 +1,15 @@
+names:
+- pedestrian
+- people
+- bicycle
+- car
+- van
+- truck
+- tricycle
+- awning-tricycle
+- bus
+- motor
+nc: 10
+path: /kaggle/working/visdrone_yolo
+train: train/images
+val: val/images

@@ -1,0 +1,10 @@
+[
+    {
+        "alert_id": "ALERT_001",
+        "start_frame": 54,
+        "end_frame": 59,
+        "duration_frames": 6,
+        "risk_level": "HIGH",
+        "timestamp": "2026-03-09 17:01:51"
+    }
+]

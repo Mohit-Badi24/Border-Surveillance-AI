@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+training_logs/
+data/
+*.pt
+*.pth
+*.mp4
