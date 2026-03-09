@@ -1,16 +1,3 @@
-"""
-AI Border Surveillance Pipeline
---------------------------------
-1. Extract YOLO features
-2. Normalize for LSTM
-3. Build sliding windows
-4. Load or train LSTM
-5. Compute anomaly scores
-6. Compute threat scores (using RAW features)
-7. Risk classification
-8. Visualization
-"""
-
 import os
 import torch
 import numpy as np
